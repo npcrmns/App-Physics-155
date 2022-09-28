@@ -1,4 +1,4 @@
-# App-Physics-155
+# App Physics 155
 ## Computer Methods in Physics I
 This will serve as a repository of codes and machine exercises we did in our computational physics class. 
 
