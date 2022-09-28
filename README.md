@@ -1,5 +1,5 @@
 # App-Physics-155
-A repository of codes and machine exercises we did in our computational physics classes. 
+This will serve as a repository of codes and machine exercises we did in our computational physics class. 
 
 ## About the Course
-* aa
+* Course title: 
