@@ -2,5 +2,5 @@
 This will serve as a repository of codes and machine exercises we did in our computational physics class. 
 
 ## About the Course
-** Course Title**
+**Course Title**
 Computer Methods in Physics
