@@ -1,6 +1,6 @@
 # App Physics 155
 ## Computer Methods in Physics I
-This will serve as a repository of codes and machine exercises we did in our computational physics class. 
+Repository of codes and machine exercises performed in the computational physics class. 
 
 ### Description
 Number systems and number representations; overview of computer hardware and software; computer programming methods; numerical analysis; research data processing
