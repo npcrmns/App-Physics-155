@@ -4,9 +4,6 @@
 ### Description
 Number systems and number representations; overview of computer hardware and software; computer programming methods; numerical analysis; research data processing
 
-### Course Goals
-For students to develop knowledge and skills to solve problems in Physics using computer algorithms and implement code using Python to get reliable and accurate answers and avoid common pitfalls in computation
-
 ### Course Topics
 * Python programming for physicists
 * Integrals and derivatives
